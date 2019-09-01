@@ -50,3 +50,9 @@ Using Vaadin pre-releases
 
 If Vaadin pre-releases are not enabled by default, use the Maven parameter
 "-P vaadin-prerelease" or change the activation default value of the profile in pom.xml .
+
+## Start Kafka Server with Zookeeper
+____________________________________
+
+## Start Mongodb Server
+
